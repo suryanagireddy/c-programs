@@ -1,0 +1,5 @@
+XSym
+0049
+3ce7f263874b9533343596ba371da2bc
+/Users/acain/.splashkit/commands/mcs/SplashKit.cs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

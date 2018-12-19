@@ -1,0 +1,8 @@
+/Users/rahulroi/Documents/Code/Messy4.1/bin/Debug/netcoreapp1.1/Messy4.1.deps.json
+/Users/rahulroi/Documents/Code/Messy4.1/bin/Debug/netcoreapp1.1/Messy4.1.runtimeconfig.json
+/Users/rahulroi/Documents/Code/Messy4.1/bin/Debug/netcoreapp1.1/Messy4.1.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/Messy4.1/obj/Debug/netcoreapp1.1/Messy4.1.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/Messy4.1/bin/Debug/netcoreapp1.1/Messy4.1.dll
+/Users/rahulroi/Documents/Code/Messy4.1/bin/Debug/netcoreapp1.1/Messy4.1.pdb
+/Users/rahulroi/Documents/Code/Messy4.1/obj/Debug/netcoreapp1.1/Messy4.1.dll
+/Users/rahulroi/Documents/Code/Messy4.1/obj/Debug/netcoreapp1.1/Messy4.1.pdb

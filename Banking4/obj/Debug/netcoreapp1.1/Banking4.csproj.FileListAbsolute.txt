@@ -1,0 +1,14 @@
+/Users/rahulroi/Documents/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.deps.json
+/Users/rahulroi/Documents/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.runtimeconfig.json
+/Users/rahulroi/Documents/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/Banking4/obj/Debug/netcoreapp1.1/Banking4.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.dll
+/Users/rahulroi/Documents/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.pdb
+/Users/rahulroi/Documents/Code/Banking4/obj/Debug/netcoreapp1.1/Banking4.dll
+/Users/rahulroi/Documents/Code/Banking4/obj/Debug/netcoreapp1.1/Banking4.pdb
+/Volumes/NO NAME/RAHUL SYS/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.deps.json
+/Volumes/NO NAME/RAHUL SYS/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.runtimeconfig.json
+/Volumes/NO NAME/RAHUL SYS/Code/Banking4/bin/Debug/netcoreapp1.1/Banking4.runtimeconfig.dev.json
+/Volumes/NO NAME/RAHUL SYS/Code/Banking4/obj/Debug/netcoreapp1.1/Banking4.AssemblyInfo.cs
+/Volumes/NO NAME/RAHUL SYS/Code/Banking4/obj/Debug/netcoreapp1.1/Banking4.dll
+/Volumes/NO NAME/RAHUL SYS/Code/Banking4/obj/Debug/netcoreapp1.1/Banking4.pdb

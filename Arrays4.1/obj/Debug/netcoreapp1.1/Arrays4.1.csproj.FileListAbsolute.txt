@@ -1,0 +1,8 @@
+/Users/momndad/Documents/Code/Arrays4.1/bin/Debug/netcoreapp1.1/Arrays4.1.deps.json
+/Users/momndad/Documents/Code/Arrays4.1/bin/Debug/netcoreapp1.1/Arrays4.1.runtimeconfig.json
+/Users/momndad/Documents/Code/Arrays4.1/bin/Debug/netcoreapp1.1/Arrays4.1.runtimeconfig.dev.json
+/Users/momndad/Documents/Code/Arrays4.1/bin/Debug/netcoreapp1.1/Arrays4.1.dll
+/Users/momndad/Documents/Code/Arrays4.1/bin/Debug/netcoreapp1.1/Arrays4.1.pdb
+/Users/momndad/Documents/Code/Arrays4.1/obj/Debug/netcoreapp1.1/Arrays4.1.AssemblyInfo.cs
+/Users/momndad/Documents/Code/Arrays4.1/obj/Debug/netcoreapp1.1/Arrays4.1.dll
+/Users/momndad/Documents/Code/Arrays4.1/obj/Debug/netcoreapp1.1/Arrays4.1.pdb

@@ -1,0 +1,5 @@
+XSym
+0051
+7b26e6c644ac7e5698ef7d0b9df60fc9
+/Users/momndad/.splashkit/commands/mcs/SplashKit.cs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

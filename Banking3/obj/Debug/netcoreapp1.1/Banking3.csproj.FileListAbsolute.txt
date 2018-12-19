@@ -1,0 +1,8 @@
+/Users/rahulroi/Documents/Code/Banking3/bin/Debug/netcoreapp1.1/Banking3.deps.json
+/Users/rahulroi/Documents/Code/Banking3/bin/Debug/netcoreapp1.1/Banking3.runtimeconfig.json
+/Users/rahulroi/Documents/Code/Banking3/bin/Debug/netcoreapp1.1/Banking3.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/Banking3/bin/Debug/netcoreapp1.1/Banking3.dll
+/Users/rahulroi/Documents/Code/Banking3/bin/Debug/netcoreapp1.1/Banking3.pdb
+/Users/rahulroi/Documents/Code/Banking3/obj/Debug/netcoreapp1.1/Banking3.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/Banking3/obj/Debug/netcoreapp1.1/Banking3.dll
+/Users/rahulroi/Documents/Code/Banking3/obj/Debug/netcoreapp1.1/Banking3.pdb

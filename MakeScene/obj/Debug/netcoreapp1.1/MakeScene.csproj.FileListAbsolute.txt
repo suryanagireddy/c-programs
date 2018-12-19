@@ -1,0 +1,8 @@
+/Users/rahulroi/Documents/Code/MakeScene/bin/Debug/netcoreapp1.1/MakeScene.deps.json
+/Users/rahulroi/Documents/Code/MakeScene/bin/Debug/netcoreapp1.1/MakeScene.runtimeconfig.json
+/Users/rahulroi/Documents/Code/MakeScene/bin/Debug/netcoreapp1.1/MakeScene.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/MakeScene/bin/Debug/netcoreapp1.1/MakeScene.dll
+/Users/rahulroi/Documents/Code/MakeScene/bin/Debug/netcoreapp1.1/MakeScene.pdb
+/Users/rahulroi/Documents/Code/MakeScene/obj/Debug/netcoreapp1.1/MakeScene.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/MakeScene/obj/Debug/netcoreapp1.1/MakeScene.dll
+/Users/rahulroi/Documents/Code/MakeScene/obj/Debug/netcoreapp1.1/MakeScene.pdb

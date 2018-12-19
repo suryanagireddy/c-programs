@@ -1,0 +1,8 @@
+/Users/rahulroi/Documents/Code/RobotDodge/bin/Debug/netcoreapp1.1/RobotDodge.deps.json
+/Users/rahulroi/Documents/Code/RobotDodge/bin/Debug/netcoreapp1.1/RobotDodge.runtimeconfig.json
+/Users/rahulroi/Documents/Code/RobotDodge/bin/Debug/netcoreapp1.1/RobotDodge.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/RobotDodge/obj/Debug/netcoreapp1.1/RobotDodge.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/RobotDodge/bin/Debug/netcoreapp1.1/RobotDodge.dll
+/Users/rahulroi/Documents/Code/RobotDodge/bin/Debug/netcoreapp1.1/RobotDodge.pdb
+/Users/rahulroi/Documents/Code/RobotDodge/obj/Debug/netcoreapp1.1/RobotDodge.dll
+/Users/rahulroi/Documents/Code/RobotDodge/obj/Debug/netcoreapp1.1/RobotDodge.pdb

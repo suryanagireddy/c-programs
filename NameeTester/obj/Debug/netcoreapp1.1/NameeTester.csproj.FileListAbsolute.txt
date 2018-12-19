@@ -1,0 +1,8 @@
+/Users/rahulroi/Documents/Code/NameeTester/bin/Debug/netcoreapp1.1/NameeTester.deps.json
+/Users/rahulroi/Documents/Code/NameeTester/bin/Debug/netcoreapp1.1/NameeTester.runtimeconfig.json
+/Users/rahulroi/Documents/Code/NameeTester/bin/Debug/netcoreapp1.1/NameeTester.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/NameeTester/bin/Debug/netcoreapp1.1/NameeTester.dll
+/Users/rahulroi/Documents/Code/NameeTester/bin/Debug/netcoreapp1.1/NameeTester.pdb
+/Users/rahulroi/Documents/Code/NameeTester/obj/Debug/netcoreapp1.1/NameeTester.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/NameeTester/obj/Debug/netcoreapp1.1/NameeTester.dll
+/Users/rahulroi/Documents/Code/NameeTester/obj/Debug/netcoreapp1.1/NameeTester.pdb

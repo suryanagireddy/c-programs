@@ -1,0 +1,72 @@
+        public static void Main()
+        {
+            RobotGame game = new RobotGame();
+            game.Run();
+
+        }
+    }
+
+    public class RobotGame
+    {
+        private RobotShip _player ;
+        private Window _gameWindow;
+
+        public RobotGame()
+        {
+            LoadResources();
+            _player = new RobotShip { X = 120, Y = 220 };
+        }
+
+        private void LoadResources()
+        {
+            SplashKit.LoadBitmap("Player", "Player.png");
+        }
+
+        public void Run()
+        {
+            _gameWindow = new Window("Robot Dodge", 700, 700);
+
+            while (!_gameWindow.CloseRequested)
+            {
+                Draw();
+                handleInput();
+            }
+
+            _gameWindow.Close();
+            _gameWindow = null;
+        }
+
+
+        private void Draw()
+        {
+            _gameWindow.Clear(Color.Black);
+            _player.Draw();
+            _gameWindow.Refresh(60);
+
+        }
+
+        private void handleInput()
+        {
+            SplashKit.ProcessEvents();
+
+            if(SplashKit.KeyDown(KeyCode.UpKey))
+            {
+                _player.Move(5,0);
+            }
+            if(SplashKit.KeyDown(KeyCode.DownKey))
+            {
+                _player.Move(-5,0);
+            }
+            if(SplashKit.KeyDown(KeyCode.RightKey))
+            {
+                _player.Move(0,5);
+            }
+            if(SplashKit.KeyDown(KeyCode.LeftKey))
+            {
+                _player.Move(0,-5);
+            }
+        }
+
+    }
+
+}

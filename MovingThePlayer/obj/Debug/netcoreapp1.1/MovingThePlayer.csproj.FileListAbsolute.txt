@@ -1,0 +1,8 @@
+/Users/momndad/Documents/Code/MovingThePlayer/bin/Debug/netcoreapp1.1/MovingThePlayer.deps.json
+/Users/momndad/Documents/Code/MovingThePlayer/bin/Debug/netcoreapp1.1/MovingThePlayer.runtimeconfig.json
+/Users/momndad/Documents/Code/MovingThePlayer/bin/Debug/netcoreapp1.1/MovingThePlayer.runtimeconfig.dev.json
+/Users/momndad/Documents/Code/MovingThePlayer/bin/Debug/netcoreapp1.1/MovingThePlayer.dll
+/Users/momndad/Documents/Code/MovingThePlayer/bin/Debug/netcoreapp1.1/MovingThePlayer.pdb
+/Users/momndad/Documents/Code/MovingThePlayer/obj/Debug/netcoreapp1.1/MovingThePlayer.AssemblyInfo.cs
+/Users/momndad/Documents/Code/MovingThePlayer/obj/Debug/netcoreapp1.1/MovingThePlayer.dll
+/Users/momndad/Documents/Code/MovingThePlayer/obj/Debug/netcoreapp1.1/MovingThePlayer.pdb

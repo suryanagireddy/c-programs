@@ -1,0 +1,8 @@
+/Users/rahulroi/Documents/Code/CodeAnalysis1/bin/Debug/netcoreapp1.1/CodeAnalysis1.deps.json
+/Users/rahulroi/Documents/Code/CodeAnalysis1/bin/Debug/netcoreapp1.1/CodeAnalysis1.runtimeconfig.json
+/Users/rahulroi/Documents/Code/CodeAnalysis1/bin/Debug/netcoreapp1.1/CodeAnalysis1.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/CodeAnalysis1/bin/Debug/netcoreapp1.1/CodeAnalysis1.dll
+/Users/rahulroi/Documents/Code/CodeAnalysis1/bin/Debug/netcoreapp1.1/CodeAnalysis1.pdb
+/Users/rahulroi/Documents/Code/CodeAnalysis1/obj/Debug/netcoreapp1.1/CodeAnalysis1.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/CodeAnalysis1/obj/Debug/netcoreapp1.1/CodeAnalysis1.dll
+/Users/rahulroi/Documents/Code/CodeAnalysis1/obj/Debug/netcoreapp1.1/CodeAnalysis1.pdb

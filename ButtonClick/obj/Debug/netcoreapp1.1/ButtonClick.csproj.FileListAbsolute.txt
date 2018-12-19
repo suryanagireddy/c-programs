@@ -1,0 +1,8 @@
+/Users/rahulroi/Documents/Code/ButtonClick/bin/Debug/netcoreapp1.1/ButtonClick.deps.json
+/Users/rahulroi/Documents/Code/ButtonClick/bin/Debug/netcoreapp1.1/ButtonClick.runtimeconfig.json
+/Users/rahulroi/Documents/Code/ButtonClick/bin/Debug/netcoreapp1.1/ButtonClick.runtimeconfig.dev.json
+/Users/rahulroi/Documents/Code/ButtonClick/bin/Debug/netcoreapp1.1/ButtonClick.dll
+/Users/rahulroi/Documents/Code/ButtonClick/bin/Debug/netcoreapp1.1/ButtonClick.pdb
+/Users/rahulroi/Documents/Code/ButtonClick/obj/Debug/netcoreapp1.1/ButtonClick.AssemblyInfo.cs
+/Users/rahulroi/Documents/Code/ButtonClick/obj/Debug/netcoreapp1.1/ButtonClick.dll
+/Users/rahulroi/Documents/Code/ButtonClick/obj/Debug/netcoreapp1.1/ButtonClick.pdb

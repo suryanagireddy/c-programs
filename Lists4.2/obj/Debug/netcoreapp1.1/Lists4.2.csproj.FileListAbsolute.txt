@@ -1,0 +1,8 @@
+/Users/momndad/Documents/Code/Lists4.2/bin/Debug/netcoreapp1.1/Lists4.2.deps.json
+/Users/momndad/Documents/Code/Lists4.2/bin/Debug/netcoreapp1.1/Lists4.2.runtimeconfig.json
+/Users/momndad/Documents/Code/Lists4.2/bin/Debug/netcoreapp1.1/Lists4.2.runtimeconfig.dev.json
+/Users/momndad/Documents/Code/Lists4.2/obj/Debug/netcoreapp1.1/Lists4.2.AssemblyInfo.cs
+/Users/momndad/Documents/Code/Lists4.2/bin/Debug/netcoreapp1.1/Lists4.2.dll
+/Users/momndad/Documents/Code/Lists4.2/bin/Debug/netcoreapp1.1/Lists4.2.pdb
+/Users/momndad/Documents/Code/Lists4.2/obj/Debug/netcoreapp1.1/Lists4.2.dll
+/Users/momndad/Documents/Code/Lists4.2/obj/Debug/netcoreapp1.1/Lists4.2.pdb
